@@ -1,3 +1,3 @@
 my first line content to checkin to git .. lets see how does this works
-Removed appostrophe s in first line .. let's commit from web and sync
-Let's make change to development branch main should not have this change
+Removed appostrophe s in first line .. lets commit from web and sync
+Let's make change to development branch main should not have this change .. make change from local repo not web
