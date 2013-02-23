@@ -1,1 +1,2 @@
-my first line content to checkin to git .. let's see how does this works
+my first line content to checkin to git .. lets see how does this works
+Removed appostrophe s in first line .. let's commit from web and sync
